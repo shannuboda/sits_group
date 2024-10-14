@@ -92,7 +92,7 @@
             <div class="row">
 
                 <div class="small-12 columns">
-                    <h1>Placement</h1>
+                    <h1>SITS COLLEGE OF PHARMACY</h1>
                 </div><!-- Top Row /-->
 
                 <div class="small-12 columns">
@@ -112,249 +112,196 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="inner-content">
-                            <h2>Placements at AGI</h2>
+
+                            <h2>Akash Institute of Medical Science &amp; Research Centre (AIMS &amp; RC)</h2>
                             <div class="akash-line">
                                 <span class="decor"><span class="inner"></span></span>
                             </div>
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <img class="img-responsive placements-img"
-                                        src="https://www.akashinstitutions.com/New/img/placements-1.jpg"
-                                        alt="Akash Group of Institutions Placements">
-                                </div>
-                                <div class="col-md-7">
-                                    <p>AGI takes many initiatives to provide resources to students to ensure overall
-                                        development, growth, and progress.The Akash Group is well networked with the top
-                                        recruiters and industry giants to offer 100% placement assistance for all the
-                                        students.</p>
-                                    <p>The students of Akash are offered with multiple career opportunities in various
-                                        sectors like</p>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <ul class="list-dot">
-                                                <li>IT MNCs</li>
-                                                <li>Banks</li>
-                                                <li>Financial Institutions</li>
-                                                <li>Government Organizations</li>
-                                                <li>Global MNCs</li>
-                                                <li>Logistics and Supply Chain Companies</li>
-                                                <li>E Commerce Companies</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <ul class="list-dot">
-                                                <li>Marketing Agencies</li>
-                                                <li>Real Estate Giants</li>
-                                                <li>Hospitality Industry</li>
-                                                <li>Hospitals and Clinics</li>
-                                                <li>Industries</li>
-                                                <li>Manufacturing Units</li>
-                                                <li>Service Providers and many more</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <p><strong>Akash Institute of Medical Sciences &amp; Research Centre (AIMS &amp; RC)
+                                </strong>is one of the <strong>best medical colleges in Bangalore</strong> that was
+                                established in 2014 by the Akash Educational &amp; Development Trust. The institute was
+                                established with the exclusive goal of providing knowledge in the field of medicine and
+                                shaping future doctors and the future healthcare of our nation. The Akash Institute of
+                                Medical Science &amp; Research Centre is affiliated to Rajiv Gandhi University of Health
+                                Sciences (RGUHS), recognised by NMC and approved by the Government of India and
+                                Government of Karnataka.&nbsp;</p>
 
-                            <p>The Akash Placement Cell also provides the students with excellent Internship and job
-                                opportunities in top MNCs of the world. The placement cell at Akash has been
-                                successfully placing every student with 100 % placements every year and continues to be
-                                a strong contender for other colleges especially in campus interviews .The top-notch
-                                companies from both national and international stature visit the AGI every year to
-                                provide equal placement opportunities for all the students of Akash.</p>
-                            <h4>Placement Cell Activities</h4>
-                            <p>The Training and Placement cell of Akash undertakes the following activities to achieve
-                                the desired results and provide 100% placement assistance for all its students:</p>
-                            <ul class="list-dot">
-                                <li>Mock interviews</li>
-                                <li>Interpersonal skill development sessions</li>
-                                <li>Seminars</li>
-                                <li>GD</li>
-                                <li>Symposiums to provide the students better exposure</li>
-                                <li>Internships</li>
+                            <p><img src="https://www.akashinstitutions.com/New/img/institution-hospital-1.jpg" /></p>
+
+                            <h3>Akash Hospital</h3>
+
+                            <p>The Akash Institute of Medical Science and Research Centre has its own Teaching Hospital
+                                with all the cutting-edge infrastructure and treatment facilities. The <strong><a
+                                        href="https://www.akashinstitutions.com/hospital">Akash Hospital </a></strong>is
+                                developed according to the standard norms with Indian Medical Association (IMA) and
+                                NMC.&nbsp;</p>
+
+                            <p>The Akash Hospital is fully equipped with cutting edge medical technologies for top-notch
+                                treatment facilities and highly qualified doctors and specialists. The Akash hospital is
+                                equipped with 600 to 1000 beds and has a separate Pre-clinical, Para-clinical and
+                                Clinical Departments for the benefit of the patients. The <strong><a
+                                        href="https://www.akashinstitutions.com/hospital">Akash Hospital</a></strong>
+                                played a key role during the Covid 19 pandemic by providing emergency response and
+                                treatments for the patients.</p>
+
+                            <h3>Why should students choose Akash Medical College and Research Centre?</h3>
+
+                            <ol>
+                                <li>Akash Institute of Medical Sciences &amp; Research Centre (AIMS &amp; RC) has the
+                                    highest standards in delivering the quality medical education and has entered the
+                                    list of top-ranking institutes of country</li>
+                                <li>The institution consists of dedicated and experienced professors and it also hosts
+                                    professors from different national and international universities</li>
+                                <li>The institution <strong>is the top medical college in Bangalore</strong> to offer a
+                                    unique blend of theory and practical knowledge of study in medical sciences</li>
+                                <li>The Akash Institute of Medical Science &amp; Research Centre is well known for the
+                                    exploration of the contemporary issues around health promotion, maintenance,
+                                    advocacy, and medical care</li>
+                                <li>The institution gives an excellent learning atmosphere for medical sciences; the
+                                    individual attention to students makes the institute better for medical studies</li>
+                                <li>The students of Akash Institute of Medical Science and Research Centre will have an
+                                    opportunity to have a practical and real-time exposure of treating patients in the
+                                    Akash Hospital</li>
+                                <li>The students of Akash Institute of Medical Science and Research Centre are
+                                    immediately hired in Akash Hospitals for handsome salaries</li>
+                                <li>The Akash Institute of Medical Science and Research Centre has also tied up with top
+                                    hospitals and healthcare organisations across the globe for 100% placement
+                                    assistance&nbsp;</li>
+                            </ol>
+
+                            <p><img src="https://www.akashinstitutions.com/New/img/institution-courses-1.jpg" /></p>
+
+                            <h3>Courses offered at Akash Institute of Medical Science &amp; Research Centre</h3>
+
+                            <p>The Akash Institute of Medical Science and Research Centre offers medical courses. The
+                                Akash Institute of Medical Science and Research Centre is approved by NMC and is also
+                                approved by Government of India and Government of Karnataka.</p>
+
+                            <p><strong>Courses offered in Akash Institute of Medical Science and Research
+                                    Centre</strong></p>
+
+                            <p><strong>Bachelor&rsquo;s Degree</strong></p>
+
+                            <ul>
+                                <li>MBBS</li>
                             </ul>
-                            <p>The placement cell at Akash is always geared up to provide its quality services not only
-                                in employment to students during studies, but also their employability. The placement
-                                cell conducts special language and skill development training for all the
-                                students.During these training sessions;the students are trained to develop and increase
-                                their English fluency skills, soft skills like communication skills, email etiquette,
-                                interpersonal skills, interview facing skills etc.</p>
-                            <p>All these activities are regularly organized by the placement cell by the faculty,
-                                invited speakers, motivational speakers, SMEs, seminars, symposiums, workshops etc.</p>
-                            <h4>What makes Akash Placement Cell unique?</h4>
-                            <p>Akash Placement Cell is considered one of the most unique ones, when compared to other
-                                colleges.</p>
-                            <p>The factors that makes Akash Placement Cell unique are:</p>
-                            <ul class="list-dot">
-                                <li>Akash placement cell has been successfully placing the students in industries
-                                    through ON campus, pooled campus and OFF campus recruitment drives</li>
-                                <li>The placement cell is known for providing the live training and live project support
-                                    for students in industries during summer and winter vacations</li>
-                                <li>The placement cell of Akash has in-house professional counselors to effectively
-                                    counsel the students on available job opportunities.</li>
-                                <li>The Akash Placement Cell is very proactive in organizing regular industry visits for
-                                    students</li>
-                                <li>The placement cell at Akash conducts regular aptitude training sessions for students
-                                    which is not the case in other placement cells</li>
-                                <li>The Akash Placement Cell is well known to invite experts from the industry for
-                                    offering technical training for all its students</li>
-                                <li>The placement cell at Akash organizes regular guest lectures from industry experts
-                                    for encouraging Industry-Academia interactions</li>
-                                <li>The Akash Placement cell is very concerned about the students and always strives
-                                    hard for students benefits, so regular skills development and grooming sessions from
-                                    Industry experts and working professionals are regularly organized on behalf of the
-                                    placement cell</li>
-                                <li>The placement cell in Akash is well aware of the power of knowledge sharing, so it
-                                    regularly conducts national and international conference and invites SMEs from
-                                    different parts of the world</li>
-                                <li>The Akash Placement Cell always cares for the students, so it will make the best
-                                    efforts to encourage students to develop entrepreneurship and leadership qualities
-                                </li>
-                                <li>One of the most unique programmes of Akash Placement Cell is that it trains the
-                                    students with skills that are necessary for Self-descriptions and GD sessions and
-                                    Case Studies</li>
-                                <li>Akash Placement Cell is first of its kind where the students are trained to prepare
-                                    Self SWOT analysis and Personal Image Audit</li>
-                                <li>The Placement Cell at Akash believes in team building and it regularly organizes
-                                    team building activities for all its students, this allows them to showcase better
-                                    coordination skills in the real-world scenarios</li>
+
+                            <p><strong>Master&rsquo;s Degree</strong></p>
+
+                            <ul>
+                                <li>MD - Paediatrics</li>
+                                <li>MD - Radio Diagnosis</li>
+                                <li>MD - Pathology</li>
+                                <li>MD - Anaesthesiology</li>
+                                <li>MD - Dermatology , Venereology &amp; Leprosy</li>
+                                <li>MD - General Medicine</li>
+                                <li>MD - Pharmacology</li>
+                                <li>MD - Social &amp; Preventive Medicine / Community Medicine</li>
+                                <li>MS - Ophthalmology</li>
+                                <li>MS - Orthopaedics</li>
+                                <li>MS - Obstetrics and Gynaecology</li>
+                                <li>MS - Otorhinolaryngology</li>
                             </ul>
-                            <hr>
-                            <h4>Placements at Akash Institutions</h4>
-                            
-                            <section class="full-sec" style="padding: 15px 0 5px 0; background: #fff">
-                                <div class="container">
-                                  <div class="row">
-                                    <div class="col-md-8">
-                                      <div class="placements-logos">
-                                        <div
-                                          class="placements-carousel owl-carousel owl-theme"
-                                          data-auto="1"
-                                          data-speed="600"
-                                        >
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/amazon.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/google.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/meta.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/microsoft.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/flipkart.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/phonepe.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/infosys.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/icici.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/wipro.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/tcs.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                          <div class="item">
-                                            <div class="single-item">
-                                              <img
-                                                class="placements-logo"
-                                                src="images/placements/deloitte.jpg"
-                                              />
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </section>
-                              <script>
-                                $(document).ready(function () {
-                                  $(".placements-carousel").owlCarousel({
-                                    loop: true, // Enable infinite loop
-                                    margin: 10, // Margin between items
-                                    nav: true, // Enable navigation
-                                    autoplay: true, // Enable auto-scrolling
-                                    autoplayTimeout: 1000, // Autoplay interval (3 seconds)
-                                    autoplaySpeed: 600, 
-                                    slideTransition: 'linear',// Speed of the scrolling
-                                    navText: [
-                                      '<i class="fas fa-chevron-left"></i>', // Left arrow icon
-                                      '<i class="fas fa-chevron-right"></i>', // Right arrow icon
-                                    ],
-                                    responsive: {
-                                      // Set responsive behavior
-                                      0: {
-                                        items: 1, // Show 1 item on small screens
-                                      },
-                                      600: {
-                                        items: 3, // Show 3 items on medium screens
-                                      },
-                                      1000: {
-                                        items: 5, // Show 5 items on larger screens
-                                      },
-                                    },
-                                  });
-                                });
-                              </script>
+
+                            <h3>Courses and Fee Structure</h3>
+                            <div class="table-responsive">
+                                <table class="table no-border">
+                                    <thead>
+                                        <tr>
+                                            <th>Icon</th>
+                                            <th>Department Name</th>
+                                            <th>UG/PG</th>
+                                            <th>Intake</th>
+                                            <th>Management Seats</th>
+                                            <th>Convener Seats</th>
+                                            <th>Total Count</th>
+                                            <th>Fee (INR)</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><i class="fa fa-microchip" aria-hidden="true"></i></td>
+                                            <td>Department of Electronics and Communication</td>
+                                            <td>UG</td>
+                                            <td>200</td>
+                                            <td>50</td>
+                                            <td>150</td>
+                                            <td>200</td>
+                                            <td>2,50,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class="fa fa-desktop" aria-hidden="true"></i></td>
+                                            <td>Department of Computer Science</td>
+                                            <td>UG</td>
+                                            <td>180</td>
+                                            <td>45</td>
+                                            <td>135</td>
+                                            <td>180</td>
+                                            <td>2,00,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class="fa fa-building" aria-hidden="true"></i></td>
+                                            <td>Department of Civil Engineering</td>
+                                            <td>UG</td>
+                                            <td>150</td>
+                                            <td>40</td>
+                                            <td>110</td>
+                                            <td>150</td>
+                                            <td>2,75,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class="fa fa-leaf" aria-hidden="true"></i></td>
+                                            <td>Department of Basic Sciences and Humanities</td>
+                                            <td>UG</td>
+                                            <td>100</td>
+                                            <td>25</td>
+                                            <td>75</td>
+                                            <td>100</td>
+                                            <td>1,50,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class="fas fa-plug"></i></td>
+                                            <td>Department of Electrical Engineering</td>
+                                            <td>UG</td>
+                                            <td>170</td>
+                                            <td>40</td>
+                                            <td>130</td>
+                                            <td>170</td>
+                                            <td>2,30,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class="fas fa-cogs"></i></td>
+                                            <td>Department of Mechanical Engineering</td>
+                                            <td>UG</td>
+                                            <td>160</td>
+                                            <td>40</td>
+                                            <td>120</td>
+                                            <td>160</td>
+                                            <td>2,60,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class='fas fa-chalkboard-teacher'></i></td>
+                                            <td>Department of Management and Commerce</td>
+                                            <td>UG/PG</td>
+                                            <td>120</td>
+                                            <td>30</td>
+                                            <td>90</td>
+                                            <td>120</td>
+                                            <td>3,00,000/year</td>
+                                        </tr>
+                                        <tr>
+                                            <td><i class='fas fa-clinic-medical'></i></td>
+                                            <td>Department of Pharmacy</td>
+                                            <td>UG</td>
+                                            <td>140</td>
+                                            <td>35</td>
+                                            <td>105</td>
+                                            <td>140</td>
+                                            <td>2,80,000/year</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -1289,7 +1236,7 @@
                                     </div>
                                 </div>
                             </div>
-                           
+
                             <div class="side-btns">
                                 <a class="btn side-btn2" href="https://www.akashinstitutions.com/hospital">Akash
                                     Hospital
@@ -1596,8 +1543,8 @@
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.actions.min.js"></script>
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-    <script type="text/javascript"
-        src="lib/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.layeranimation.min.js">
+    </script>
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.migration.min.js"></script>
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
     <script type="text/javascript" src="lib/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
@@ -1606,219 +1553,218 @@
 
 
     <script>
-        // gallery
-        $(document).ready(function () {
+    // gallery
+    $(document).ready(function() {
 
-            $(".filter-button").click(function () {
+        $(".filter-button").click(function() {
 
-                var value = $(this).attr('data-filter');
+            var value = $(this).attr('data-filter');
 
-                if (value == "all") {
-                    $('.filter').removeClass('hidden');
-                    $('.filter').show('5000');
-                    // $('.gal-1').addClass('col-sm-6', 1000);
-                    // $('.gal-2').addClass('col-sm-3', 1000);
-                    // $('.filter').addClass('col-sm-12', 1000);
-                    // $('.campus').removeClass('col-sm-3', 1000);
-                    // $('.class-rooms').removeClass('col-sm-3', 1000);
-                    // $('.events').removeClass('col-sm-3', 1000);
-                    // $('.field-trips').removeClass('col-sm-3', 1000);
-                }
-                else {
-                    // $('.gal-1').removeClass('col-sm-6', 1000);
-                    // $('.gal-2').removeClass('col-sm-3', 1000);
-                    // $('.filter').removeClass('col-sm-12', 1000);
-                    // $('.campus').addClass('col-sm-3', 1000);
-                    // $('.class-rooms').addClass('col-sm-3', 1000);
-                    // $('.events').addClass('col-sm-3', 1000);
-                    // $('.field-trips').addClass('col-sm-3', 1000);
+            if (value == "all") {
+                $('.filter').removeClass('hidden');
+                $('.filter').show('5000');
+                // $('.gal-1').addClass('col-sm-6', 1000);
+                // $('.gal-2').addClass('col-sm-3', 1000);
+                // $('.filter').addClass('col-sm-12', 1000);
+                // $('.campus').removeClass('col-sm-3', 1000);
+                // $('.class-rooms').removeClass('col-sm-3', 1000);
+                // $('.events').removeClass('col-sm-3', 1000);
+                // $('.field-trips').removeClass('col-sm-3', 1000);
+            } else {
+                // $('.gal-1').removeClass('col-sm-6', 1000);
+                // $('.gal-2').removeClass('col-sm-3', 1000);
+                // $('.filter').removeClass('col-sm-12', 1000);
+                // $('.campus').addClass('col-sm-3', 1000);
+                // $('.class-rooms').addClass('col-sm-3', 1000);
+                // $('.events').addClass('col-sm-3', 1000);
+                // $('.field-trips').addClass('col-sm-3', 1000);
 
-                    // 				var filter_att = $(this).attr('data-filter');
-                    // 				alert(filter_att);
+                // 				var filter_att = $(this).attr('data-filter');
+                // 				alert(filter_att);
 
-                    //            	$('.filter[filter-item="'+value+'"]').removeClass('hidden');
-                    //            	$(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+                //            	$('.filter[filter-item="'+value+'"]').removeClass('hidden');
+                //            	$(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
 
-                    $(".filter").not('.' + value).hide('5000');
-                    $('.filter').filter('.' + value).show('5000');
+                $(".filter").not('.' + value).hide('5000');
+                $('.filter').filter('.' + value).show('5000');
 
-                }
+            }
 
-                if ($(".filter-button").removeClass("active")) {
-                    $(this).removeClass("active");
-                }
-                $(this).addClass("active");
-
-            });
-
-
+            if ($(".filter-button").removeClass("active")) {
+                $(this).removeClass("active");
+            }
+            $(this).addClass("active");
 
         });
 
+
+
+    });
     </script>
     <script>
-        $(document).ready(function () {
-            var Country = $('.CountrySelect').val();
-            var ParentDiv = $('.CountrySelect').parents().eq(3);
-            var EnquiryMobile = ParentDiv.find('.EnquiryMobile');
-            //   console.log(ParentDiv);
-            if (Country != 'India') {
-                EnquiryMobile.attr('placeholder', 'Please enter your Mobile No. without country code');
-                EnquiryMobile.attr('maxlength', 20);
-                EnquiryMobile.attr('minlength', 1);
-                EnquiryMobile.removeClass("invalid");
-                EnquiryMobile.addClass("valid");
-            } else {
+    $(document).ready(function() {
+        var Country = $('.CountrySelect').val();
+        var ParentDiv = $('.CountrySelect').parents().eq(3);
+        var EnquiryMobile = ParentDiv.find('.EnquiryMobile');
+        //   console.log(ParentDiv);
+        if (Country != 'India') {
+            EnquiryMobile.attr('placeholder', 'Please enter your Mobile No. without country code');
+            EnquiryMobile.attr('maxlength', 20);
+            EnquiryMobile.attr('minlength', 1);
+            EnquiryMobile.removeClass("invalid");
+            EnquiryMobile.addClass("valid");
+        } else {
+            EnquiryMobile.attr('placeholder', 'Please enter 10 digit Mobile No.');
+            EnquiryMobile.attr('maxlength', 10);
+            EnquiryMobile.attr('minlength', 10);
+            var phone = EnquiryMobile.val().length;
+            if (phone > 10) {
                 EnquiryMobile.attr('placeholder', 'Please enter 10 digit Mobile No.');
-                EnquiryMobile.attr('maxlength', 10);
-                EnquiryMobile.attr('minlength', 10);
-                var phone = EnquiryMobile.val().length;
-                if (phone > 10) {
-                    EnquiryMobile.attr('placeholder', 'Please enter 10 digit Mobile No.');
-                    //   Label.text('');
-                    EnquiryMobile.removeClass("valid");
-                    EnquiryMobile.addClass("invalid");
-                    EnquiryMobile.val('');
-                } else if (phone < 10) {
-                    EnquiryMobile.attr('placeholder', 'Please enter 10 digit Mobile No.');
-                    EnquiryMobile.removeClass("valid");
-                    EnquiryMobile.addClass("invalid");
-                } else {
-                    EnquiryMobile.attr('placeholder', 'Mobile');
-                    EnquiryMobile.removeClass("invalid");
-                    EnquiryMobile.addClass("valid");
-                }
+                //   Label.text('');
+                EnquiryMobile.removeClass("valid");
+                EnquiryMobile.addClass("invalid");
+                EnquiryMobile.val('');
+            } else if (phone < 10) {
+                EnquiryMobile.attr('placeholder', 'Please enter 10 digit Mobile No.');
+                EnquiryMobile.removeClass("valid");
+                EnquiryMobile.addClass("invalid");
+            } else {
+                EnquiryMobile.attr('placeholder', 'Mobile');
+                EnquiryMobile.removeClass("invalid");
+                EnquiryMobile.addClass("valid");
             }
-        });
-        $(document).on('change', '.CountrySelect', function (e) {
-            var Country = $(this).val();
-            var ParentDiv = $(this).parents().eq(3);
-            var EnquiryMobile = ParentDiv.find('.EnquiryMobile');
-            console.log(ParentDiv);
-            var Label = EnquiryMobile.prev();
-            if (Country != 'India') {
-                EnquiryMobile.attr('maxlength', 20);
-                EnquiryMobile.attr('minlength', 1);
+        }
+    });
+    $(document).on('change', '.CountrySelect', function(e) {
+        var Country = $(this).val();
+        var ParentDiv = $(this).parents().eq(3);
+        var EnquiryMobile = ParentDiv.find('.EnquiryMobile');
+        console.log(ParentDiv);
+        var Label = EnquiryMobile.prev();
+        if (Country != 'India') {
+            EnquiryMobile.attr('maxlength', 20);
+            EnquiryMobile.attr('minlength', 1);
+            Label.text('Mobile');
+            EnquiryMobile.removeClass("invalid");
+            EnquiryMobile.addClass("valid");
+        } else {
+            EnquiryMobile.attr('maxlength', 10);
+            EnquiryMobile.attr('minlength', 10);
+            var phone = EnquiryMobile.val().length;
+            if (phone > 10) {
+                Label.text('Please enter 10 digit Mobile No.');
+                EnquiryMobile.removeClass("valid");
+                EnquiryMobile.addClass("invalid");
+                EnquiryMobile.val('');
+            } else if (phone < 10) {
+                Label.text('Please enter 10 digit Mobile No.');
+                EnquiryMobile.removeClass("valid");
+                EnquiryMobile.addClass("invalid");
+            } else {
                 Label.text('Mobile');
                 EnquiryMobile.removeClass("invalid");
                 EnquiryMobile.addClass("valid");
-            } else {
-                EnquiryMobile.attr('maxlength', 10);
-                EnquiryMobile.attr('minlength', 10);
-                var phone = EnquiryMobile.val().length;
-                if (phone > 10) {
-                    Label.text('Please enter 10 digit Mobile No.');
-                    EnquiryMobile.removeClass("valid");
-                    EnquiryMobile.addClass("invalid");
-                    EnquiryMobile.val('');
-                } else if (phone < 10) {
-                    Label.text('Please enter 10 digit Mobile No.');
-                    EnquiryMobile.removeClass("valid");
-                    EnquiryMobile.addClass("invalid");
-                } else {
-                    Label.text('Mobile');
-                    EnquiryMobile.removeClass("invalid");
-                    EnquiryMobile.addClass("valid");
-                }
             }
-        });
-        $(document).on('keypress', '.EnquiryMobile', function (e) {
-            var count = $(this).val();
-            if (count >= 10) {
-                var Label = $(this).prev();
-                Label.text('Mobile');
-            }
-        });
-
-        $(function () {
-            var ua = navigator.userAgent.toLowerCase();
-            var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
-            if (isAndroid) {
-                $(".EnquiryMobile").attr('pattern', '[0-9]+');
-                $(".EnquiryMobile").attr('type', 'tel');
-                $(".EnquiryMobile").attr('title', 'Enter your full mobile number, without country code and any special characters.');
-            } else {
-                $(".EnquiryMobile").keypress(function (e) {
-                    var keyCode = e.keyCode || e.which;
-                    var regex = /^[0-9]+$/;
-                    var isValid = regex.test(String.fromCharCode(keyCode));
-                    return isValid;
-                });
-            }
-        });
-
-        function isNumber(event) {
-            if (event) {
-                var charCode = (event.which) ? event.which : event.keyCode;
-                if (charCode != 190 && charCode > 31 &&
-                    (charCode < 48 || charCode > 57) &&
-                    (charCode < 96 || charCode > 200) &&
-                    (charCode < 37 || charCode > 40) &&
-                    charCode != 111 && charCode != 8 && charCode != 46)
-                    return false;
-            }
-            return true;
         }
+    });
+    $(document).on('keypress', '.EnquiryMobile', function(e) {
+        var count = $(this).val();
+        if (count >= 10) {
+            var Label = $(this).prev();
+            Label.text('Mobile');
+        }
+    });
+
+    $(function() {
+        var ua = navigator.userAgent.toLowerCase();
+        var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+        if (isAndroid) {
+            $(".EnquiryMobile").attr('pattern', '[0-9]+');
+            $(".EnquiryMobile").attr('type', 'tel');
+            $(".EnquiryMobile").attr('title',
+                'Enter your full mobile number, without country code and any special characters.');
+        } else {
+            $(".EnquiryMobile").keypress(function(e) {
+                var keyCode = e.keyCode || e.which;
+                var regex = /^[0-9]+$/;
+                var isValid = regex.test(String.fromCharCode(keyCode));
+                return isValid;
+            });
+        }
+    });
+
+    function isNumber(event) {
+        if (event) {
+            var charCode = (event.which) ? event.which : event.keyCode;
+            if (charCode != 190 && charCode > 31 &&
+                (charCode < 48 || charCode > 57) &&
+                (charCode < 96 || charCode > 200) &&
+                (charCode < 37 || charCode > 40) &&
+                charCode != 111 && charCode != 8 && charCode != 46)
+                return false;
+        }
+        return true;
+    }
     </script>
 
     <script>
-        function determineDropDirection() {
-            $(".auto-menu").each(function () {
-                $(this).css({
-                    visibility: "hidden",
-                    display: "block"
-                });
-
-                $(this).parent().removeClass("dropup");
-
-                if ($(this).offset().top + $(this).outerHeight() > $(window).innerHeight() + $(window).scrollTop()) {
-                    $(this).parent().addClass("dropup");
-                }
-
-                $(this).removeAttr("style");
+    function determineDropDirection() {
+        $(".auto-menu").each(function() {
+            $(this).css({
+                visibility: "hidden",
+                display: "block"
             });
-        }
 
-        determineDropDirection();
+            $(this).parent().removeClass("dropup");
 
-        $(window).scroll(determineDropDirection);
+            if ($(this).offset().top + $(this).outerHeight() > $(window).innerHeight() + $(window)
+                .scrollTop()) {
+                $(this).parent().addClass("dropup");
+            }
+
+            $(this).removeAttr("style");
+        });
+    }
+
+    determineDropDirection();
+
+    $(window).scroll(determineDropDirection);
     </script>
     <script type="text/javascript">
-        $(function () {
-            $(".contact-form").on("submit", function () {
-                $("#loading-spinner").fadeIn(300);
-            });
-        });
-
-        function setCookie(key, value, expiry) {
-            var expires = new Date();
-            expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
-            document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
-        }
-
-        function getCookie(key) {
-            var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
-            return keyValue ? keyValue[2] : null;
-        }
-
-        function eraseCookie(key) {
-            var keyValue = getCookie(key);
-            setCookie(key, keyValue, '-1');
-        }
-
-
-
-        $(document).on("submit", ".auto-popup", function () {
-            setCookie('popup', 'opened', '31');
-            // eraseCookie('popup');
-            $("#loading-spinner").show();
+    $(function() {
+        $(".contact-form").on("submit", function() {
             $("#loading-spinner").fadeIn(300);
-            setTimeout(function () {
-                $('#loading-spinner').hide();
-                $("#loading-spinner").fadeOut(1);
-            }, 20000);
         });
+    });
 
+    function setCookie(key, value, expiry) {
+        var expires = new Date();
+        expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
+        document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+    }
+
+    function getCookie(key) {
+        var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+        return keyValue ? keyValue[2] : null;
+    }
+
+    function eraseCookie(key) {
+        var keyValue = getCookie(key);
+        setCookie(key, keyValue, '-1');
+    }
+
+
+
+    $(document).on("submit", ".auto-popup", function() {
+        setCookie('popup', 'opened', '31');
+        // eraseCookie('popup');
+        $("#loading-spinner").show();
+        $("#loading-spinner").fadeIn(300);
+        setTimeout(function() {
+            $('#loading-spinner').hide();
+            $("#loading-spinner").fadeOut(1);
+        }, 20000);
+    });
     </script>
 </body>
 

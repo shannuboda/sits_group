@@ -35,9 +35,9 @@
       <!-- Header Starts -->
       <div class="header">
         <div class="row">
-          <div class="medium-4 small-12 columns">
+          <div class="medium-3 small-12 columns">
             <div class="logo">
-              <a href="index.html">
+              <a href="index.php">
                 <img src="images/TITTLE.jpg" alt="Siddharth Group" />
               </a>
             </div>
@@ -45,7 +45,7 @@
           </div>
           <!-- left Ends /-->
 
-          <div class="medium-8 small-12 columns nav-wrap">
+          <div class="medium-9 small-12 columns nav-wrap">
             <!-- navigation Code STarts here.. -->
             <div class="top-bar">
               <div class="top-bar-title">
@@ -65,44 +65,28 @@
                   data-responsive-menu="accordion medium-dropdown"
                 >
                   <li><a href="about-us.html">ABOUT US</a></li>
-                  <li><a href="courses.html">Courses</a></li>
-                  <li>
-                    <a href="http://alumni.siddharthgroup.ac.in/">Alumni</a>
-                  </li>
-
+                  
                   <li class="single-sub parent-nav">
-                    <a href="events.html">Events</a>
+                    <a href="events.html">Institutions</a>
                     <ul class="child-nav menu vertical">
-                      <li><a href="events.html">Events</a></li>
-                      <li><a href="single-event.html">Single Event</a></li>
+                      <li><a href="sits_engg.php">SITS ENGG</a></li>
+                      <li><a href="sits_pharma.php">SITS Pharma</a></li>
+                      <li><a href="sits_management.php">SITS Management</a></li>
+                    
+
                     </ul>
                   </li>
 
-                  <li class="single-sub parent-nav">
-                    <a href="events.html">Events</a>
-                    <ul class="child-nav menu vertical">
-                      <li><a href="events.html">Events</a></li>
-                      <li><a href="single-event.html">Single Event</a></li>
-                    </ul>
-                  </li>
+                  <li><a href="courses.php">Courses</a></li>
+                  <li><a href="admissions.php">Admissions</a></li>
+                  <li><a href="placement.php">Placement</a></li>
 
-                  <li class="single-sub parent-nav">
-                    <a href="events.html">Events</a>
-                    <ul class="child-nav menu vertical">
-                      <li><a href="events.html">Events</a></li>
-                      <li><a href="single-event.html">Single Event</a></li>
-                    </ul>
-                  </li>
+                  <li><a href="alumni.php">Alumni</a></li>
+                  <li><a href="careers.php">Careers</a></li>
+                  <li><a href="contactus.php">ContactUs</a></li>
+                  
 
-                  <li class="single-sub parent-nav">
-                    <a href="events.html">Events</a>
-                    <ul class="child-nav menu vertical">
-                      <li><a href="events.html">Events</a></li>
-                      <li><a href="single-event.html">Single Event</a></li>
-                    </ul>
-                  </li>
-
-                  <li><a href="contact.html">Contact</a></li>
+                 
                 </ul>
               </nav>
             </div>

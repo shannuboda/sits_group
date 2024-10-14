@@ -1541,3 +1541,26 @@ background: #1143a4;
     top: 0;
   }
 } */
+
+.table-responsive {
+  overflow-x: auto;
+}
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+.table th, .table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+.table th {
+  text-align: center;
+}
+.table td {
+  text-align: center;
+}
+.table.no-border th, .table.no-border td {
+  border: none; /* Remove borders */
+}
