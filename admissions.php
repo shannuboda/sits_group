@@ -92,7 +92,7 @@
 <style>
     
 </style>
-    <div class="main-container">
+   
     <style>
      
 
@@ -255,8 +255,27 @@
                 <button type="submit">Submit</button>
             </form>
         </div>
+
+        
     </div>
-    </div>
+    <style>
+.img-wrap{
+   background-image: url(./images/bgbg.jpg)!important;
+   background-repeat: repeat;
+   padding: 20px 0px ;
+   margin-top: 22px;
+   opacity: 75%;
+   border-radius:100px;
+   margin-bottom:1rem;
+}
+</style>
+<div class="img-wrap">
+               <center></p>
+<p style="color: white; text-align: center; font-size: 20px; font-weight: bold;">ADMISSIONS HOTLINE<br />
+               <a class="white" href="tel:+91 94437 92222">+91 94437 92222</a> / <a class="white" href="tel:0421- 2911100">0421- 2911100</a> / <a class="white" href="tel:0421- 2911200">0421- 2911200</a>
+               </p>
+<p></center>
+            </div>
    <?php include('./includes/footer.php'); ?>
    </div>
 
