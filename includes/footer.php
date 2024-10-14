@@ -4,7 +4,7 @@
 <div class="footer">
     <div class="footerTop">
         <div class="row">
-            <div class="large-3 medium-6 small-12 columns footer-widget">
+            <div class="large-4 medium-6 small-12 columns footer-widget">
                 <h2>About Us</h2>
                 <div class="tx-div"></div>
                 <ul class="address">

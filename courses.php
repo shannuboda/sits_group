@@ -132,18 +132,390 @@
 
                 <div class="course-wrapper">
 
-
                     <ul class="tabs" data-tabs id="course-tabs" role="tablist">
-                        <li class="tabs-title is-active"><a href="#graphic_design" aria-selected="true" role="tab">UNDER
+                        <li class="tabs-title is-active"><a href="#all_design" aria-selected="true" role="tab">All</a>
+                        </li>
+                        <li class="tabs-title"><a href="#graphic_design" aria-selected="true" role="tab">Engineering</a>
+                        </li>
+                        <li class="tabs-title"><a href="#graphic_design" aria-selected="true" role="tab">Pharmacy</a>
+                        </li>
+                        <li class="tabs-title"><a href="#graphic_design" aria-selected="true" role="tab">Management</a>
+                        </li>
+                        <li class="tabs-title"><a href="#graphic_design" aria-selected="true" role="tab">Nursing</a>
+                        </li>
+                        <li class="tabs-title "><a href="#graphic_design" aria-selected="true" role="tab">DIPLOMA</a>
+                        </li>
+
+                        <li class="tabs-title"><a href="#graphic_design" aria-selected="true" role="tab">UNDER
                                 GRADUATE</a></li>
                         <li class="tabs-title"><a href="#programming">POST GRADUATE</a></li>
-                        <li class="tabs-title"><a href="#finance">DIPLOMA</a></li>
-                        <li class="tabs-title"><a href="#srikanth">B.ED</a></li>
+
 
 
                     </ul><!-- tabs nav /-->
 
                     <div class="tabs-content" data-tabs-content="course-tabs">
+
+
+
+                        <div class="tabs-panel is-active" id="all_design">
+
+                            <div class="medium-3 small-12 columns">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/c.jpg" alt="civil" />
+
+
+                                    </div>
+                                    <h3>B.TECH CIVIL ENGINEERING</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/m.jpg" alt="civil" />
+
+
+                                    </div>
+                                    <h3> B.Tech - Mechanical Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/cse.jpg" alt="CSE" />
+
+
+                                    </div>
+                                    <h3> B.Tech - Computer Science Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+
+
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/ag.jpg" alt="AGE" />
+
+
+                                    </div>
+                                    <h3> B.Tech - Agriculture Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+
+
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/ec.jpg" alt="EC" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> B.Tech - Electronics and Communication Engineering
+                                    </h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+
+
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/ee.jpg" alt="EEE" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 21px;"> B.Tech - Electrical and Electronics Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+
+                            <!-- First Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/cs.jpg" alt="IT" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> B.Tech - Computer Science Information Technology</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/cs.jpg" alt="IT" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> B.Tech - Computer Science Information Technology</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 4 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- First Course /-->
+
+
+
+                            <!-- second tab -->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mv.jpg" alt="M.Tech VLSI" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.TECH-VLSI</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mcdm.jpg" alt="M.TECH CAD/CDM" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;">M.Tech - CAD/CAM</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mp.jpg" alt="M.Tech - Power Electronics" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 18px;">M.Tech - Power Electronics</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mcs.jpg" alt="M.Tech - Control System" />
+
+
+                                    </div>
+                                    <h3 style="    font-size: 20px;">M.Tech - Control System</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mcse.jpg" alt="M.Tech - Computer Science Engineering" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.Tech - Computer Science Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mt.jpg" alt="  M.Tech - Thermal Engineering" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.Tech - Thermal Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/ms.gif" alt=" M.Tech - Structural Engineering" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.Tech - Structural Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/meb.jpg" alt="M.Tech - Embedded Engineering" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.Tech - Embedded Engineering</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/md.jpg"
+                                            alt=" M.Tech - Digital Electronics & Communication system" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> M.Tech - Digital Electronics & Communication system
+                                    </h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 2 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mca.jpg" alt="Master of Computer Application" />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> Master of Computer Application</h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 3 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+                            <!-- second Course /-->
+                            <div class="medium-3 small-12 columns" style="margin-top: 10px;">
+                                <div class="course">
+                                    <div class="course-thumb">
+                                        <img src="images/c/mba.jpg" alt="Master of Business Administration " />
+
+
+                                    </div>
+                                    <h3 style="font-size: 20px;"> Master of Business Administration </h3>
+
+                                    <ul class="no-bullet">
+                                        <li><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Duration: 3 years
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div><!-- second Course /-->
+
+
+                        </div>
 
                         <div class="tabs-panel is-active" id="graphic_design">
 
