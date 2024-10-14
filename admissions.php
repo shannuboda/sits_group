@@ -89,9 +89,7 @@
    <div class="main-container">
    <?php include('./includes/header.php'); ?>
 <img src="./images/1350-x-380-BANNER-WITH-CCODE.png" alt="">
-<style>
-    
-</style>
+
    
     <style>
      
@@ -177,8 +175,13 @@
             background-color: #7A1E9D;
         }
     </style>
-
+<h3 style="
+    text-align: center;
+    margin-top: 1rem;
+    text-decoration: underline;
+">Why Choose Siddartha </h3>
     <div class="container">
+    
         <div class="info-section">
             <div class="info-item">
                 <img src="./images/icons/100-placement-Support_.png" alt="20+ Engineering Courses" class="info-image">
